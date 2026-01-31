@@ -71,7 +71,11 @@ Useful for spotting short‑term patterns, promotions impact, and operational bo
 
 7. Unit Level vs. Demand
 A comparison of product quantities sold versus demand indicators, supporting forecasting and supply chain decisions.
-[SQL query](northwind.sql) and 
+
+The supporting materials:
+
+[SQL query](northwind.sql)
+
 ![Dashboard of northwind](Dashboard%20of%20northwind.png)
 
 
