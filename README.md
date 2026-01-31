@@ -4,6 +4,13 @@ This is the samples of dashboard of database northwind produced in power BI with
 Overview
 This dashboard provides a full analytical view of the Northwind database, transforming raw transactional data into clear business insights. It highlights how sales evolve over time, which customers and products drive the most revenue, and how performance varies across regions and categories. The goal is to support decision‑making around sales strategy, inventory planning, and customer engagement.
 
+  <img src="Dashboard_of_Performance_Northwind_by_PBI/Dashboard of northwind.png" alt="Northwind Sales Dashboard" style="max-width:100%;">
+  <figcaption>Dashboard of Performance - Northwind Dataset visualized in Power BI</figcaption>
+</figure>
+
+![](Dashboard_northwind.png)
+
+The structure of the dashbaord:
 Key Metrics
 Total Sales: 1.35M
 
@@ -75,13 +82,3 @@ A comparison of product quantities sold versus demand indicators, supporting for
 The supporting materials:
 
 [SQL query](northwind.sql)
-
-  <img src="Dashboard_of_Performance_Northwind_by_PBI/Dashboard of northwind.png" alt="Northwind Sales Dashboard" style="max-width:100%;">
-  <figcaption>Dashboard of Performance - Northwind Dataset visualized in Power BI</figcaption>
-</figure>
-
-![](Dashboard_northwind.png)
-
-
-
-
