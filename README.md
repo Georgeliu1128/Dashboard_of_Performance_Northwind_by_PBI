@@ -76,7 +76,12 @@ The supporting materials:
 
 [SQL query](northwind.sql)
 
-![Dashboard of northwind](Dashboard%20of%20northwind.png)
+
+![Dashboard of northwind](Dashboard_northwind.png)
+<figure>
+  <img src="Dashboard_of_Performance_Northwind_by_PBI/Dashboard of northwind.png" alt="Northwind Sales Dashboard" style="max-width:100%;">
+  <figcaption>Dashboard of Performance - Northwind Dataset visualized in Power BI</figcaption>
+</figure>
 
 
 
