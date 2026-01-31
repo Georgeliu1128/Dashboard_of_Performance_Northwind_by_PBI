@@ -81,7 +81,7 @@ The supporting materials:
   <figcaption>Dashboard of Performance - Northwind Dataset visualized in Power BI</figcaption>
 </figure>
 
-![Dashboard of northwind](Dashboard_northwind.png)
+![Dashboard of Northwind](Dashboard_northwind.png)
 
 
 
